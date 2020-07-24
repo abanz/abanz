@@ -43,7 +43,7 @@ Hi everyone, I'm **Akbar Maulana** but you can call me abanz :)  ,I'm a **Web De
 <summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
   <br />
   
-[![Abanz's github stats](https://github-readme-stats.vercel.app/api?username=abanz)
+[Abanz's github stats](https://github-readme-stats.vercel.app/api?username=abanz)
  
   </details>
 
