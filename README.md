@@ -24,9 +24,9 @@ Hi everyone, I'm **Akbar Maulana** but you can call me abanz :)  ,I'm a **Web De
   
   
 **Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m currently free during this pandemic lmao.
-- 🌱 I’m currently learning Codeigniter & Laravel.
-- 🤔 My interests are with front-end & web designing.
+- 👨🏽‍💻 I’m a freelancer.
+- 🌱 I’m currently learning Linux.
+- 🤔 My interests are with front-end & GNU/Linux.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via vforabanz@gmail.com to reach me.
 
